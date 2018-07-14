@@ -1,0 +1,39 @@
+body {
+	background-image: url("assassins_creed.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.nav-link {
+	color: #947542;
+}
+h4 {
+	font-family: 'Gentium Basic', serif;
+	color: black;
+	font-weight: 700;
+	padding-top: 160px;
+	padding-left: 140px;
+}
+h1 {
+	font-family: 'Vidaloka', serif;
+	/*padding-right: */
+	align-content: center;
+	text-align: center;
+
+}
+button {
+	color: black;
+	width: 30%;
+	text-align: center;
+
+}
+.center-block {
+	/*float: none;*/
+	width: 20%;
+	padding-right: 360px;
+	text-align: center;
+
+}
+.example2 {
+  margin-top: 20px;
+}
