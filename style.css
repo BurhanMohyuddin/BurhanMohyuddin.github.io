@@ -3,6 +3,11 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 100%;
+	overflow-x: hidden;
+
+}
+.navbar-light {
+	background-color: #ffffff;
 }
 .nav-link {
 	color: #947542;
@@ -20,6 +25,12 @@ h1 {
 	align-content: center;
 	text-align: center;
 
+}
+.btn btn-dark center-block {
+	width: 30%;
+	padding-right: 400px;
+	align-content: center;
+	text-align: center;
 }
 button {
 	color: black;
