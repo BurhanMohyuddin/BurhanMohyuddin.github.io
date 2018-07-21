@@ -17,7 +17,7 @@ h4 {
 	color: black;
 	font-weight: 700;
 	padding-top: 160px;
-	padding-left: 140px;
+	padding-left: 100px;
 }
 h1 {
 	font-family: 'Vidaloka', serif;
@@ -26,25 +26,15 @@ h1 {
 	text-align: center;
 
 }
-.btn btn-dark center-block {
-	width: 30%;
-	padding-right: 400px;
+.validate {
+	width: 40%;
+	background-size: auto; 
+	border-radius: 120px;
 	align-content: center;
-	text-align: center;
 }
-button {
-	color: black;
-	width: 30%;
-	text-align: center;
-
-}
-.center-block {
-	/*float: none;*/
-	width: 20%;
-	padding-right: 360px;
-	text-align: center;
-
-}
-.example2 {
-  margin-top: 20px;
+.btn-dark {
+	width: 50%;
+	background-size: auto; 
+	border-radius: 120px;
+	align-content: center;
 }
